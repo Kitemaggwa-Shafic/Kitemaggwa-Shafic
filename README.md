@@ -1,18 +1,21 @@
 ### Hi 👋 Kitemaggwa Shafic
 
- 
+ <!-- 
 **Kitemaggwa-Shafic/Kitemaggwa-Shafic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ... 
+-->
 - 🌱 I’m currently learning new Python frameworks for backend and frontend with vue
 - 👯 I’m looking to collaborate on Python projects with Django
 - 🤔 I’m looking for help with Data Science and Machine Learning
-- 💬 Ask me about ...
-- 📫 How to reach me: kitemaggwashafic@gmail.com, https://medium.com/@kitemaggwashafic
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: kitemaggwashafic@gmail.com
+<!-- 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
+-->
  
 
 <div id="header" align="center">
