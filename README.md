@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... 
 -->
 - 💡 I’m Kitemaggwa Shafic, A Software Engineer who is looking to grow as a full-stack Developer<br> 
-- 🌱 I’m currently learning new Python frameworks for backend and frontend with vue
 - 🌱 I’m currently working on a new project with Tailwind CSS, Vue on front-end and Laravel MVC for back-end
+- 🌱 I’m currently learning new Python frameworks for backend and frontend with vue
 - 👯 I’m open and free to collaborate on open-source projects.
 - 🤔 I’m looking for help with Data Science and Machine Learning with Python
 <!-- - 💬 Ask me about ... -->
