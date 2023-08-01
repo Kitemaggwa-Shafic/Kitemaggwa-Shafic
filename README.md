@@ -1,4 +1,4 @@
-### Hi 👋 Kitemaggwa Shafic
+### Hi 👋 I'm Kitemaggwa Shafic
 
  <!-- 
 **Kitemaggwa-Shafic/Kitemaggwa-Shafic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
